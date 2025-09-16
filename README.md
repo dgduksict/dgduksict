@@ -38,6 +38,10 @@ Here are some ideas to get you started:
     <a href="https://duke-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" target="_blank" />
   </a>
+    </a>
+    <a href="https://huggingface.co/dgduksict" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FF9900?logo=huggingface&logoColor=white&style=for-the-badge" target="_blank" />
+  </a>
 </div>
 
 <hr>
