@@ -39,4 +39,15 @@ Here are some ideas to get you started:
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=js,vue,redux,d3,git,postman,figma,tensorflow,huggingface" />
+</p>
+
+<hr>
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dgduksict)
