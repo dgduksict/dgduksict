@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dgduksict)
 
-<img src="https://github.com/dgduksict/dgduksict/blob/main/banner-cart.png" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/dgduksict/dgduksict/blob/main/banner-cart.jpg" alt="I like cats">
 
