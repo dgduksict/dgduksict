@@ -1,4 +1,4 @@
-## Hello, I like cats 👋
+## Hello, I like cats and ai👋
 
 <!--
 **dgduksict/dgduksict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
