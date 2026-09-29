@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Duke!;" />
 </h1>
 
-### I'm a passionate AI Engineer with expertise in backend development and blockchain technology. I specialize in building scalable AI systems and decentralized applications that push the boundaries of what's possible.
+### I'm a passionate AI Engineer with expertise in software development and blockchain technology. I specialize in building scalable AI systems and decentralized applications that push the boundaries of what's possible.
 
 <img src="https://github.com/dgduksict/dgduksict/blob/main/banner-cart.jpg" alt="I like cats">
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <a href="bdulguunod@gmail.com">
+  <a href="bdulguun.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dulguun-battulga-90a4a62a0" target="_blank">
